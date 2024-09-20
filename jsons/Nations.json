@@ -1,38 +1,38 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Tool",
+		"leaderName": "Maynard James Keenan",
+		"adjective": ["Tool"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Deaf and blind and dumb and born to follow What you need is someone strong to guide you Like me.",
+		"startIntroPart2": "I had a friend once, he took some acid Now he thinks he's a fire engine It's okay until he pisses on your lighter Kinda smells, kinda cool, kinda funny anyway",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "This is necessary Life feeds on life feeds on life feeds on life feeds on",
+		"attacked": "Someone told me once that there's a right and wrong Punishment was sure for those who dare to cross the line",
+		"defeated": "If there were no rewards to reap No loving embrace to see me through This tedious path I've chosen here I certainly would've walked away by now",
+		"introduction": "Hey, hey, hey, hey, hey, hey, hey, hey, hey",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Hey, hey, hey, hey, hey, hey Hey, hey, hey, hey, hey, hey Hey, hey-ah, hey, hey, hey-ah Hey, hey-ah, hey",
+		"neutralLetsHearIt": ["A groan of tedium escapes me Startling the fearful"],
+		"neutralNo": ["He had a lot to say He had a lot of nothing to say"],
+		"neutralYes": ["Shoulder deep within the borderline Relax, turn around and take my hand"],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "What was it like to see The face of your own stability Suddenly look away Leaving you with the dead and hopeless?",
+		"hateLetsHearIt": ["What you want and what you need Don't mean that much to me I can see your Back is turning If I could I'd Stick a knife in"],
+		"hateNo": ["If consequences dictate My course of action, I should I should play God and just Shoot you myself"],
+		"hateYes": ["Consequences dictate Our course of action and it Doesn't matter what's right It's only wrong if you get caught"],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Used to be a bunch of assholes that lived in this part of the building here. But we systematically removed them like you would any kind of termite or roach.",
+		"tradeRequest": "Lay back and let me show you another way",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Lateralus","Q'Ænima","Q'Undertow","Q'Opiate","Q'Stinkfist","Q'Hush","Q'Mantra","Q'Parabola","Q'Eulogy",
+			"Q'H.","Q'Flood","Q'4°","Q'Sweat","Q'Bottom","Q'Intermission","Q'Pushit","Q'Disgustipated","Q'Triad","Q'Reflection",
+			"Q'Jerk-Off","Q'Cold and Ugly","Q'Part of Me","Q'Hooker with a Penis","Q'Useful Idiot","Jimmy","Q'Cesaro Summability","Q'Sober","Q'Prison Sex","Crawl Away",
+			"Q'Ticks & Leeches","Q'Disposition","Q'The Grudge","Q'Eon Blue Apocalypse","Q'Faaip de Oiad","Q'Swamp Song"]
 	}
 ]
